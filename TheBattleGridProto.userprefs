@@ -1,9 +1,22 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Tank.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\World.cs">
     <Files>
-      <File FileName="TheBattleGridProto.sln" Line="1" Column="1" />
-      <File FileName="Assets\Tank.cs" Line="54" Column="5" />
+      <File FileName="Assets\Scripts\World.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\CameraControler.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Bullet.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Controller.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\UpdatePause.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\PlayerMovement.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\PauseMenu.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\MouseLook.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\GridGenerator.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Shooting.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\EnemyView.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\PlayerHealth.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\GattlingAI.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\EnemyHealth.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\TurretAI.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
