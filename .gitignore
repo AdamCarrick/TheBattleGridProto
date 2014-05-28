@@ -1,35 +1,4 @@
 #################
-## Eclipse
-#################
-
-*.pydevproject
-.project
-.metadata
-bin/
-tmp/
-*.tmp
-*.bak
-*.swp
-*~.nib
-local.properties
-.classpath
-.settings/
-.loadpath
-
-# External tool builders
-.externalToolBuilders/
-
-# Locally stored "Eclipse launch configurations"
-*.launch
-
-# CDT-specific
-.cproject
-
-# PDT-specific
-.buildpath
-
-
-#################
 ## Visual Studio
 #################
 
@@ -57,8 +26,10 @@ build/
 *_i.c
 *_p.c
 *.ilk
-*.meta
-*.obj
+# Need to index meta for unity
+#*.meta 
+# Need to index obj for unity too
+#*.obj
 *.pch
 *.pdb
 *.pgc
